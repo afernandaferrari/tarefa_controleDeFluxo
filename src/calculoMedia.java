@@ -24,7 +24,7 @@ public static void main(String[] args) {
         } else if (media >= 5) {
                 System.out.println("Você está de Recuperação");
         } else {
-                System.out.println("Você está de Reprovado");
+                System.out.println("Você está Reprovado");
         }
 
 }
